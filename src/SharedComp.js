@@ -1,7 +1,7 @@
 import React from 'react';
 import { sharedComponent } from "my-component";
 
-const App = () => {
+const SharedComp = () => {
   return (
       <div>
         THIS IS MY SHARED COMPONENT
@@ -10,4 +10,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default SharedComp;
