@@ -5,4 +5,4 @@ import SharedComp from './SharedComp.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<SharedComp />);
 
-export { default as SharedComp } from './SharedComp';
+export { default as SharedComp } from './SharedComp.js';
